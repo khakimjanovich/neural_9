@@ -1,0 +1,1 @@
+hello from vim 2some other thing from vim Hello world2 in appened mode
